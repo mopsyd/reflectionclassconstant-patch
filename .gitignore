@@ -1,0 +1,18 @@
+# OS Filesystem Junk
+.DS_Store
+Icon
+Iconr
+Icon?
+Thumbs.db
+
+# Temporary or build files
+composer.lock
+npm_debug.log
+bower_components
+node_modules
+
+# Testing clutter
+clover.xml
+coverage.xml
+coverage.serialized
+junit_log.xml
